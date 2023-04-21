@@ -1,0 +1,19 @@
+{
+    "name": "tree-store",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "IceRD",
+    "license": "MIT",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.21.4",
+        "@babel/preset-env": "^7.21.4",
+        "babel-jest": "^29.5.0",
+        "jest": "^29.5.0"
+    }
+}
